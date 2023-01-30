@@ -20,6 +20,10 @@ input, textarea {
   border-radius: 4px;
 }
 
+textarea {
+  height: 200px;
+}
+
 input::placeholder, textarea::placeholder {
   color: #aaa;
   font-weight: bold;
